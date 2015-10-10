@@ -4,7 +4,7 @@
    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
    <meta name="viewport" content="width=device-width, initial-scale=1">
    <meta charset="UTF-8">
-<title>Dashboard | Blocbox</title>
+<title>Dashboard Images | Blocbox</title>
 
 
 <!-- Google Fonts -->
@@ -16,7 +16,6 @@
  <link rel="stylesheet" href="CSS/style.css">
  <link rel="stylesheet" href="CSS/font-awesome.css">
  <link rel="stylesheet" href="CSS/animate.min.css">
- <link rel="stylesheet" href="CSS/dashboard.html">
 
 </head>
 <body class="dashboard">
@@ -49,7 +48,7 @@
    <section class="content">
      <div class="container">
        <div class="header">
-         <h1>All Items</h1>
+         <h1>Images</h1>
          <a href="#" class="btn">+ Add</a>
        </div>
      </div>
@@ -61,15 +60,12 @@
        </div>
        <div class="content-item">
          <div class="item-box">
-         <h2><img class="favicon" src="https://www.airbnb.com/favicon.ico"> <a href="#">airbnb.com</a></h2>
-+         <p>Vacation Rentals, Homes, Apartments &amp; Rooms for Rent &mdash; Airbnb</p>
+         <img src="https://static.pexels.com/photos/6471/woman-hand-smartphone-desk-medium.jpg">
          </div>
        </div>
        <div class="content-item">
          <div class="item-box">
-          <h2><a href="#">Need to find a designer</a></h2>
-+          <p>We have a one-person design team, but are ready to expand. We need to look for a second designer right now so we can continue to grow.</p>
-+          <p>Put your recommendations here so we can view all of them. ...</p>
+          <img src="https://static.pexels.com/photos/6374/flowers-desk-office-vintage-large.jpg">
          </div>
        </div>
        <div class="content-item">
@@ -79,8 +75,7 @@
        </div>
        <div class="content-item">
          <div class="item-box">
-          <h2><img class="favicon" src="https://www.yourkarma.com/favicon.ico"> <a href="#">yourkarma.com</a></h2>
-+          <p>Karma Go lets you take WiFi everywhere. Pay-as-you-go for data that never expires. No contracts or monthly fees. With nationwide coverage on LTE, stay connected to the internet with all of your devices, seamlessly.</p>
+          <img src="https://static.pexels.com/photos/229/bow-tie-sunglasses-apple-iphone-large.jpg">
          </div>
        </div>
        <div class="content-item">
@@ -91,14 +86,12 @@
        </div>
        <div class="content-item">
          <div class="item-box">
-          <h2><a href="#">Testing</a></h2>
-+          <p>I love lamp.</p>
+          <img src="https://static.pexels.com/photos/4439/city-art-graffiti-wall-large.jpg">
          </div>
        </div>
        <div class="content-item">
          <div class="item-box">
-         <h2><img class="favicon" src="https://www.invisionapp.com/favicon.ico"> <a href="#">invisionapp.com</a></h2>
-+          <p>Free Web &amp; Mobile (iOS, Android) Prototyping and UI Mockup Tool | InVision</p>
+         <img src="https://static.pexels.com/photos/4441/city-people-art-sidewalk-medium.jpg">
          </div>
        </div>
        <div class="content-item">
@@ -106,10 +99,14 @@
           <img src="http://41.media.tumblr.com/fddb3f2b0bdf390efd7ea87372e75fa5/tumblr_ndyg3pYbKW1tubinno1_1280.jpg">
          </div>
        </div>
-       <div class="content-item">
+      <div class="content-item">
          <div class="item-box">
-         <h2><a href="#">Why storing inspiration is great</a></h2>
-+          <p>blocbox is a new tool to help collect and store your inspiration and information. From images, to links, to notes like this one, you can keep track of all your favorite things.</p>
+         <img src:"https://static.pexels.com/photos/5467/love-art-heart-medium.jpg">
+         </div>
+       </div>
+        <div class="content-item">
+         <div class="item-box">
+         <img src:"https://static.pexels.com/photos/522/person-woman-art-creative-large.jpg">
          </div>
        </div>
      </div> 
