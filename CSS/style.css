@@ -388,6 +388,9 @@ html, body{
    text-align: center;
    margin-right:8px;
  }
+ a:active {
+   background-color: yellow;
+ }
  /* LEFT NAVBAR SETTINGS */
  .left-nav .settings {
    position:absolute;
